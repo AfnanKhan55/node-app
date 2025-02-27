@@ -1,1 +1,1 @@
-console.log("aws codebiult continuous integration");
+console.log("aws docker auto");
